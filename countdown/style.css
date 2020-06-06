@@ -1,0 +1,19 @@
+/*Usando um serviço externo de fontes com o Google Fonts.*/
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body{
+    font-family: 'Orbitron', sans-serif;
+    background-color: #07060a;
+    color: #ff0000;
+    font-size: 42px;
+    text-align: center;
+}
+
+#fire{
+    /*Muda o cursor do mouse para mãozinha.*/
+    cursor: pointer;
+}
+
+img{
+    max-width: 100%;
+}
